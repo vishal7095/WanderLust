@@ -1,4 +1,4 @@
-# Web Application README
+# WanderLust
 
 ## Overview
 This web application is built using Node.js, Express, MongoDB, and Passport for authentication. It provides functionality for managing listings, reviews, and user accounts.
